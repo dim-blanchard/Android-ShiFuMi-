@@ -1,0 +1,16 @@
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item android:drawable="@drawable/scissor_yellow0" android:duration="90" />
+    <item android:drawable="@drawable/scissor_yellow1" android:duration="90" />
+    <item android:drawable="@drawable/scissor_yellow2" android:duration="90" />
+    <item android:drawable="@drawable/scissor_yellow3" android:duration="90" />
+    <item android:drawable="@drawable/scissor_yellow4" android:duration="90" />
+    <item android:drawable="@drawable/scissor_yellow5" android:duration="90" />
+    <item android:drawable="@drawable/scissor_yellow6" android:duration="90" />
+    <item android:drawable="@drawable/scissor_yellow7" android:duration="90" />
+    <item android:drawable="@drawable/scissor_yellow8" android:duration="90" />
+    <item android:drawable="@drawable/scissor_yellow9" android:duration="90" />
+    <item android:drawable="@drawable/scissor_yellow10" android:duration="90" />
+
+
+</animation-list>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--
+    Nomage des fichier SVG dans drawable:
+
+        Sous Catégorie _ (description du SVG) (sans de l'animation 1 == premiere image)
+            EX: pierre_yellowFist1
+
+    Nomage des fichier animation XML dans drawable:
+
+        Sous Catégorie _ description
+            Ex: anim_yellowFist
+
+
+
+    -->
+</selector>

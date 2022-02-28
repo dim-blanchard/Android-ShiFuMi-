@@ -1,0 +1,15 @@
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item android:drawable="@drawable/rock_yellow0" android:duration="90" />
+    <item android:drawable="@drawable/rock_yellow1" android:duration="90" />
+    <item android:drawable="@drawable/rock_yellow2" android:duration="90" />
+    <item android:drawable="@drawable/rock_yellow3" android:duration="90" />
+    <item android:drawable="@drawable/rock_yellow4" android:duration="90" />
+    <item android:drawable="@drawable/rock_yellow5" android:duration="90" />
+    <item android:drawable="@drawable/rock_yellow6" android:duration="90" />
+    <item android:drawable="@drawable/rock_yellow7" android:duration="90" />
+    <item android:drawable="@drawable/rock_yellow8" android:duration="90" />
+    <item android:drawable="@drawable/rock_yellow9" android:duration="90" />
+    <item android:drawable="@drawable/rock_yellow10" android:duration="90" />
+
+</animation-list>

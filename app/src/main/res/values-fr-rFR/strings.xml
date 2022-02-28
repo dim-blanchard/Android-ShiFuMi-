@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="first_page_text_BotFeuilleWin">Le Bot qui gagne avec Feuille</string>
+    <string name="first_page_text_PlayerPierreWin">Le joueur qui gagne avec Pierre</string>
+    <string name="first_page_text_PlayerFeuilleWin">Le joueur qui gagne avec Feuille</string>
+    <string name="first_page_text_BotciseauxWin">Le Bot qui gagne avec Ciseaux</string>
+    <string name="first_page_text_PlayerCiseauxWin">Le joueur qui gagne avec Ciseaux</string>
+    <string name="first_page_text_BotPierreWin">Le Bot qui gagne avec Pierre</string>
+    <string name="fist_page_text1">Score: Joueur / Bot</string>
+    <string name="fist_page_btn_pierre">Pierre</string>
+    <string name="fist_page_btn_feuille">Feuille</string>
+    <string name="fist_page_btn_ciseaux">Ciseaux</string>
+    <string name="fist_page_resultat_du_bot">Choix du Bot.</string>
+    <string name="fist_page_test_choix">Selectionne un choix et Start Game !</string>
+
+
+    <string name="main_btn_play">Play</string>
+    <string name="main_editText">Nom du joueur :</string>
+    <string name="main_title">ShiFuMi</string>
+
+</resources>
